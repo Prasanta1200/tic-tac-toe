@@ -1,0 +1,39 @@
+#tic-tac-toe {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  table {
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 36px;
+  }
+  
+  #player-turn {
+    margin-top: 30px;
+    font-size: 18px;
+  }
+  
+  #winner {
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  button {
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+  }
+  
